@@ -74,20 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <br clear="both">
 
 
-![](https://github-readme-stats.vercel.app/api?username=sametfatih&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sametfatih&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sametfatih&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-###
